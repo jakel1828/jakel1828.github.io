@@ -5,3 +5,4 @@ Jake LaCaze is a writer.
 [Emergency Coffee](https://emergencycoffee.jakelacaze.com) - monthly writing newsletter <br>
 [micro.blog](https://jakelacaze.micro.blog)
 
+Email: contact@jakelacaze.com
