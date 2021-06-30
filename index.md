@@ -1,7 +1,8 @@
 ## Writing
 
 [Portfolio](/portfolio) <br>
-[Turkey House Publishing](https://turkeyhousepublishing.com) - blog posts, short stories, vignettes <br>
+[Blog](https://blog.jakelacaze.com) <br>
+[Turkey House Publishing](https://turkeyhousepublishing.com) - short stories, vignettes, and other shenanigans <br>
 [Emergency Coffee](https://emergencycoffee.jakelacaze.com) - monthly writing newsletter <br>
 
 ## Connect / Contact
