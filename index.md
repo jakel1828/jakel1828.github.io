@@ -6,5 +6,5 @@
 
 ## Connect / Contact
 [LinkedIn](https://www.linkedin.com/in/jakelacaze/) <br>
-[micro.blog](https://jakelacaze.micro.blog)
+[micro.blog](https://jakelacaze.micro.blog) <br>
 Email: contact@jakelacaze.com
