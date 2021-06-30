@@ -1,3 +1,7 @@
+## About
+
+Jake LaCaze is a writer based in the Dallas-Fort Worth area.
+
 ## Writing
 
 [Portfolio](/portfolio) <br>
