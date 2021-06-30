@@ -9,5 +9,4 @@ Jake LaCaze is a writer based in the Dallas-Fort Worth area.
 
 ## Connect / Contact
 [LinkedIn](https://www.linkedin.com/in/jakelacaze/) <br>
-[micro.blog](https://micro.blog/jakelacaze) <br>
 Email: contact@jakelacaze.com
