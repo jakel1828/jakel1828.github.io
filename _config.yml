@@ -1,8 +1,9 @@
-remote_theme: StartBootstrap/startbootstrap-clean-blog-jekyll
+remote_theme: amitmerchant1990/reverie
 plugins:
 - jekyll-remote-theme
 - jekyll-feed
 - jekyll-sitemap
+- jekyll-seo-tag
 
 title: Jake LaCaze
 description: Writer based in Dallas-Fort Worth doling out perspective as a service
