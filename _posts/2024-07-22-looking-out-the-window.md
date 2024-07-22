@@ -1,4 +1,5 @@
 ---
+layout: post
 title: Looking out the window at the world on fire
 ---
 
