@@ -1,4 +1,4 @@
-remote_theme: jekyllt/jasper
+remote_theme: mmistakes/so-simple-theme
 plugins:
 - jekyll-remote-theme
 - jekyll-feed
