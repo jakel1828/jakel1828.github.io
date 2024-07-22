@@ -1,6 +1,6 @@
 ---
-layout: post
-title: About Jake LaCaze
+layout: default
+title: About
 ---
 
-Coming soon . . .
+Coming soon
