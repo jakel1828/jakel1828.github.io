@@ -3,7 +3,7 @@ layout: post
 title: Looking out the window at a world on fire
 subtitle: We are so back!
 date: 2024-07-22
-background: ‘/assets/img/logo.jpg’
+background: /assets/img/logo.jpg
 ---
 
 *dont do it*, the voice says.
