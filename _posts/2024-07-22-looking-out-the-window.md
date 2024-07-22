@@ -1,9 +1,6 @@
 ---
 layout: post
-title: “Looking out the window at a world on fire”
-subtitle: “We are so back!”
-date: 2024-07-22 14:23:00
-background: /assets/img/logo.jpg
+title: Looking out the window at a world on fire
 ---
 
 *dont do it*, the voice says.
