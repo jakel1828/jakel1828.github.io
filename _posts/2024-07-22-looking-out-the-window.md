@@ -1,7 +1,4 @@
----
-layout: post
-title: “Looking out the window at the world on fire”
----
+# Test
 
 *dont do it*, the voice says.
 
