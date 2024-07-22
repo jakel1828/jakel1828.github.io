@@ -14,6 +14,9 @@ I’m just a dude on the internet doling out perspective as a service.
 - Lover of coffee shops
 - Favorite technologies include RSS, email, and Markdown
 
+## Subscribe
+You can subscribe to this blog via [RSS](/feed.xml). There is no option to subscribe via email, but that may change some day. 
+
 
 ## Contact
 
