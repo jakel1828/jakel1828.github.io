@@ -1,8 +1,9 @@
-theme: minima
+remote_theme: jekyllt/jasper
 plugins:
+- jekyll-remote-theme
 - jekyll-feed
 - jekyll-sitemap
 
 title: Jake LaCaze
 description: Writer based in Dallas-Fort Worth doling out perspective as a service
-permalink: pretty
+permalink: :/title
