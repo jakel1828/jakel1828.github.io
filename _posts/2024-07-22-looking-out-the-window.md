@@ -1,6 +1,6 @@
 ---
 layout: post
-title: “Test”
+title: Looking out the window at a world on fire
 ---
 
 *dont do it*, the voice says.
