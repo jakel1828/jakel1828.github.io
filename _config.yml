@@ -6,7 +6,7 @@ locale: en-US
 title: Jake LaCaze
 description: Writer based in Dallas-Fort Worth doling out perspective as a service
 baseurl: # the subpath of your site, e.g. "/blog"
-url: # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url: https://jakelacaze.com
 logo: /assets/img/logo.jpg
 date_format: "%B %-d, %Y"
 read_time: # reading time estimates, e.g. true
