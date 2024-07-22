@@ -1,4 +1,4 @@
-remote_theme: amitmerchant1990/reverie
+remote_theme: jekyllt/jasper
 plugins:
 - jekyll-remote-theme
 - jekyll-feed
