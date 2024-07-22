@@ -1,7 +1,5 @@
 theme: minima
 plugins:
-- jekyll-remote-theme # add this line to the plugins list if you already have one
-- jekyll-seo-tag
 - jekyll-feed
 - jekyll-sitemap
 
