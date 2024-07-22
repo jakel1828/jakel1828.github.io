@@ -1,6 +1,8 @@
 remote_theme: pages-themes/minimal@v0.2.0
 plugins:
 - jekyll-remote-theme # add this line to the plugins list if you already have one
+- jekyll-seo-tag
+- jekyll-feed
 
 title: Jake LaCaze
 description: Writed based in Dallas-Fort Worth doling out perspective as a service
