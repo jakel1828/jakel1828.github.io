@@ -1,4 +1,7 @@
-# Test
+---
+layout: post
+title: “Test”
+---
 
 *dont do it*, the voice says.
 
