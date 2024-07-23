@@ -1,6 +1,6 @@
 ---
 title: Writing is more than words
-categories: writing
+tags: writing
 ---
 
 Writing is easy. All you do is string together a bunch of words.
