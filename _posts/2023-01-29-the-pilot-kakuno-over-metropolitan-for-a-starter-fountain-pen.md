@@ -8,7 +8,7 @@ The Pilot Metropolitan tops most lists of starter fountain pens.
 The Metropolitan is a good pen. But it's not even the best starter fountain pen within its own brand. That honor belongs to the Pilot Kakuno. That's like naming a college football team #1 in the country when they didn't even win their conference. I mean, it happens—but it doesn't feel right.
 
 ![Clear body Pilot Kakuno fountain pen](https://static2.jetpens.com/images/a/000/131/131747.jpg?ba=middle%2Ccenter&balph=3&blend64=aHR0cDovL3d3dy5qZXRwZW5zLmNvbS9pbWFnZXMvYXNzZXRzL3dhdGVybWFyazIucG5n&bm=difference&bs=inherit&mark64=aHR0cDovL3d3dy5qZXRwZW5zLmNvbS9pbWFnZXMvYXNzZXRzL3dhdGVybWFyazEucG5n&markalign=top%2Cright&markalpha=30&markscale=16&q=90&w=600&s=946eaea0e5eaa328fcab786bbb0ce46c)
-<small>*Image of Pilot Kakuno fountain pen courtsey of [JetPens](https://jetpens.com)*</small>
+<br><small>*Image of Pilot Kakuno fountain pen courtsey of [JetPens](https://jetpens.com)*</small>
 
 ## Pilot Kakuno and Pilot Metropolitan specifications side by side
 | Specification | Pilot Kakuno | Pilot Metropolitan |
@@ -33,7 +33,7 @@ The Pilot Kakuno has some features (or lack of) that may make it less desirable 
 (Or this may be a feature, depending on your tastes. I'm not a fan.)
 
 ![The smiley face nib on the Pilot Kakuno](https://static2.jetpens.com/images/a/000/131/131770.jpg?ba=middle%2Ccenter&balph=3&blend64=aHR0cDovL3d3dy5qZXRwZW5zLmNvbS9pbWFnZXMvYXNzZXRzL3dhdGVybWFyazIucG5n&bm=difference&bs=inherit&mark64=aHR0cDovL3d3dy5qZXRwZW5zLmNvbS9pbWFnZXMvYXNzZXRzL3dhdGVybWFyazEucG5n&markalign=top%2Cright&markalpha=30&markscale=16&q=90&w=600&s=0132ba63fccf3279dcc2fdecc2a7ff44)
-<small>*The smiley face on the Pilot Kakuno—Photo courtsey of [JetPens](https://jetpens.com)*</small>
+<br><small>*The smiley face on the Pilot Kakuno—Photo courtsey of [JetPens](https://jetpens.com)*</small>
 
 ## The Pilot Metropolitan is not worth double the price of the Kakuno
 You can argue the Metropolitan is a better pen than the Kakuno. For one, the Metropolitan includes a clip on its cap, which the Kakuno lacks. And some users prefer the metal body and heavier weight of the Metropolitan. (I myself am not bothered by the plastic body of the Kakuno. And I love how light it is in comparison to the Metropolitan.)
