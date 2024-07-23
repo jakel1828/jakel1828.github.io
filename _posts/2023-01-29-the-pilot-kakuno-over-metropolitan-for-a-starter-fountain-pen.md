@@ -1,6 +1,6 @@
 ---
 title: The Pilot Kakuno over Metropolitan for a starter fountain pen
-Categories: [fountain pens, reviews]
+categories: [fountain pens, reviews]
 ---
 
 The Pilot Metropolitan tops most lists of starter fountain pens. 
@@ -11,6 +11,7 @@ The Metropolitan is a good pen. But it's not even the best starter fountain pen 
 <br><small>*Image of Pilot Kakuno fountain pen courtsey of [JetPens](https://jetpens.com)*</small>
 
 ## Pilot Kakuno and Pilot Metropolitan specifications side by side
+
 | Specification | Pilot Kakuno | Pilot Metropolitan |
 | --- | --- | --- |
 | **Weight** | 0.40 oz / 11 grams | 0.96 oz / 27 grams |
