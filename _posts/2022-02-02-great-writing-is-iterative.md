@@ -3,7 +3,7 @@ title: Great writing is iterative
 categories: writing
 ---
 
-o many of us have this habit of romanticizing great writing. 
+So many of us have this habit of romanticizing great writing. 
 
 We dream of the genius writers sitting alone at their desks, sipping on a cappuccino as the perfect words flow from their minds through their hands and onto the page.
 
