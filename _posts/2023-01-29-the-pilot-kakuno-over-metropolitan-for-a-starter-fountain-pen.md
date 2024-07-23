@@ -1,6 +1,6 @@
 ---
 title: The Pilot Kakuno over Metropolitan for a starter fountain pen
-categories: writings
+categories: writing
 tags: pens reviews
 ---
 
