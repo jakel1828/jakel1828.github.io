@@ -1,10 +1,12 @@
 ---
 title: The Copywriter’s Handbook by Robert W. Bly - An overview
-categories: [Books, reviews]
+categories: 
+	- Books
+	- reviews
 ---
 
 ![The cover of The Copywriter's Handbook](https://m.media-amazon.com/images/P/B07S7L68NH.01._SCLZZZZZZZ_SX500_.jpg)
-<small>*Cover photo courtesy of Amazon*</small>
+<br><small>*Cover photo courtesy of Amazon*</small>
 
 **Title:** The Copywriter's Handbook<br>
 **Author:** Robert W. Bly<br>
