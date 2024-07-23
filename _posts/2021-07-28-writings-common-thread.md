@@ -1,3 +1,8 @@
+---
+title: Writing’s common thread
+categories: writing
+---
+
 I entered college knowing only that I wanted to write for a living. 
 
 I had accepted that I wasn't going to support myself on the paperback royalties of novels I would never write. Technical writing sounded unimaginative, and I'm not sure my university offered such a program anyway. Therefore, journalism seemed my only option, so I stepped onto campus as a journalism major. By the end of my first quarter, I had switched to Undecided, as I then had no idea what I wanted to do with my life, but journalism was not part of those future plans. Fast forward to 2021, and I doubt anyone would say with a straight face that I made the wrong decision. But I can say with the straightest of faces that I made the right decision for the wrong reasons.
