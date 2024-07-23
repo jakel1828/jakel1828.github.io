@@ -7,12 +7,12 @@ My name is Jake LaCaze
 
 . . . obvy.
 
-I’m just a dude on the internet doling out perspective as a service.
+I’m just a dude who writes stuff on the internet.
 
 ## Quick bits
 - Located in Dallas-Fort Worth
 - Lover of coffee shops
-- Favorite technologies include RSS, email, and Markdown
+- Favorite writerly technologies include RSS, Markdown, and iA Writer.
 
 ## Subscribe
 You can subscribe to this blog via [RSS](/feed.xml). There is no option to subscribe via email, but that may change some day. 
