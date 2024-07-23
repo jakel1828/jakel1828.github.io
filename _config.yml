@@ -4,7 +4,7 @@ remote_theme: mmistakes/so-simple-theme
 skin: "/assets/css/skins/default.css"
 locale: en-US
 title: Jake LaCaze
-description: Writer based in Dallas-Fort Worth doling out perspective as a service
+description: Writer
 baseurl: # the subpath of your site, e.g. "/blog"
 url: https://jakelacaze.com
 logo: /assets/img/logo.jpg
