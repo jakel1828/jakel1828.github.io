@@ -16,5 +16,4 @@ But I can’t.
 Writing-focused blog coming soon
 
 ## Songspiration
-<iframe width="560" height="315" src="https://www.youtube.com/embed/290VFNNTYko?si=Ug5X1Rdz9hTOwrA9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<em>'Make Art Not Friends' by Sturgill Simpson</em>
+'[Make Art Not Friends](https://song.link/us/i/1476852087)' by Sturgill Simpson
