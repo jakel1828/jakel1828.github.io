@@ -1,6 +1,6 @@
 ---
 title: The case against title case
-tags: writing
+categories: writing
 ---
 
 Let's kill title case once and for all. Except for in one specific situation—when writing titles.

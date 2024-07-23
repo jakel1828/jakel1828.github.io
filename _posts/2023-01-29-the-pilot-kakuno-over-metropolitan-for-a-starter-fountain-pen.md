@@ -1,6 +1,7 @@
 ---
 title: The Pilot Kakuno over Metropolitan for a starter fountain pen
-tags: pens-and-stationery reviews
+categories: writings
+tags: pens reviews
 ---
 
 The Pilot Metropolitan tops most lists of starter fountain pens. 

@@ -1,6 +1,6 @@
 ---
 title: Unlearning how to write
-tags: writing
+categories: writing
 ---
 
 Part of succeeding in the real world is unlearning what school has taught you. This is especially true with writing.

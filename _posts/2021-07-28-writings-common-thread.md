@@ -1,6 +1,6 @@
 ---
 title: Writing’s common thread
-tags: writing
+categories: writing
 ---
 
 I entered college knowing only that I wanted to write for a living. 

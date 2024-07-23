@@ -1,5 +1,6 @@
 ---
 title: The Copywriter’s Handbook by Robert W. Bly - An overview
+categories: writing
 tags: books reviews
 ---
 

@@ -1,6 +1,6 @@
 ---
 title: Great writing is iterative
-tags: writing
+categories: writing
 ---
 
 So many of us have this habit of romanticizing great writing. 
