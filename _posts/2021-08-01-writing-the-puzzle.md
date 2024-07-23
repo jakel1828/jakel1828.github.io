@@ -1,6 +1,6 @@
 ---
 title: Writing the puzzle
-categories: writing
+tags: writing
 ---
 
 "It's like putting together a puzzle." That's how my buddy explained [oil and gas abstracting](https://www.ziprecruiter.com/e/What-Does-an-Oil-and-Gas-Title-Abstractor-Do). "Does that sound like something you'd be interested in?"
