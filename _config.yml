@@ -89,11 +89,11 @@ author:
 
 # Footer Links
 footer_links:
-  - title: Feed
+  - title: RSS feed
     url: feed.xml
     icon: fas fa-rss-square
   - title: Email Jake
-    url: contact@jakelacaze.com
+    url: mailto:contact@jakelacaze.com
     icon: fa-solid fa-envelope
   - title: Buy Me a Coffee
     url: https://buymeacoffee.com/jakelacaze
