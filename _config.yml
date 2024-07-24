@@ -12,7 +12,7 @@ date_format: "%B %-d, %Y"
 read_time: # reading time estimates, e.g. true
 words_per_minute: # 200
 mathjax:
-  enable: # MathJax equations, e.g. true, false (default)
+  true: # MathJax equations, e.g. true, false (default)
   combo:  # "tex-svg" (default), "tex-mml-chtml", etc.: docs.mathjax.org/en/latest/web/components/combined.html
   tags:  # "none", "ams" (default), "all"
 google_fonts:
@@ -37,8 +37,8 @@ feed:
   path: feed.xml
 
 # Pagination - https://jekyllrb.com/docs/pagination/
-# paginate: 10
-# paginate_path: /page:num/
+paginate: 10
+paginate_path: /page:num/
 
 # Search
 search_full_content: true # can have performance implications for large sites
@@ -95,3 +95,7 @@ footer_links:
   - title: Buy Me a Coffee
     url: https://buymeacoffee.com/jakelacaze
     icon: fa fa-coffee
+  - title: Email Jake
+    url: "mailto:contact@jakelacaze.com"
+    icon: fa-solid fa-envelope
+     
