@@ -1,5 +1,5 @@
 ---
-title: Writers ain’t gotta use AI if they don’t’ wanna
+title: Writers ain’t gotta use AI if they don’t wanna
 ---
 
 If you’ve found a certain tool or service  that works for you and makes your life better, COOL—then keep using that thing. This advice applies to AI, Notion, Obsidian, TikTok, WHATEVER. If your tool of choice is a net benefit, then keep on keepin’ on.
