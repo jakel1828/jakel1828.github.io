@@ -1,0 +1,4 @@
+---
+title: Vignettes
+layout: collection
+---
