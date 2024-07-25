@@ -96,6 +96,6 @@ footer_links:
     url: https://buymeacoffee.com/jakelacaze
     icon: fa fa-coffee
   - title: Email Jake
-    url: "mailto:contact@jakelacaze.com"
-    icon: fa-solid fa-envelope
+    url: mailto:contact@jakelacaze.com
+    icon: fas fa-envelope
      
