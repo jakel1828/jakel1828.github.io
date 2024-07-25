@@ -76,6 +76,10 @@ defaults:
       layout: post
       share: true
 
+collections:
+  vignettes:
+    output: true
+
 # Site Author
 author:
   name: Jake LaCaze
