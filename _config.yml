@@ -1,6 +1,6 @@
 
 # Site settings
-remote_theme: mmistakes/so-simple-theme
+remote_theme: mmistakes/jekyll-theme-basically-basic
 skin: "/assets/css/skins/default.css"
 locale: en-US
 title: Jake LaCaze
