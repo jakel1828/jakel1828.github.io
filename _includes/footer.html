@@ -1,0 +1,17 @@
+<footer id="footer" class="site-footer">
+  <div class="inner">
+    <div class="copyright">
+      {% if site.copyright %}
+        {{ site.copyright | markdownify }}
+      {% else %}
+        <p>&copy; {{ site.time | date: '%Y' }} {{ site.title }}.</p>
+      {% endif %}
+
+<iframe
+scrolling="no"
+style="width:100%!important;height:220px;border:1px #ccc solid !important"
+src="https://buttondown.email/jakelacaze?as_embed=true"
+></iframe><br /><br /> 
+    </div>
+  </div>
+</footer>
