@@ -82,7 +82,7 @@ defaults:
       layout: post
       share: true
 - scope:
-      path: "stories"
+      path: "_stories"
       type: stories
     values:
       layout: post
