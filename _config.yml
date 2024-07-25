@@ -75,10 +75,18 @@ defaults:
     values:
       layout: post
       share: true
+  - scope:
+      path: "_vignettes"
+      type: vignettes
+    values:
+      layout: post
+      share: true
 
 collections:
   vignettes:
     output: true
+  stories:
+    outut: true
 
 # Site Author
 author:
