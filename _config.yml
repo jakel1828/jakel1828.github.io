@@ -79,13 +79,13 @@ defaults:
       path: "_vignettes"
       type: vignettes
     values:
-      layout: post
+      layout: page
       share: true
   - scope:
       path: "_stories"
       type: stories
     values:
-      layout: post
+      layout: page
       share: true
 
 
