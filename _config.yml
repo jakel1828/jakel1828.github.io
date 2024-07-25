@@ -79,8 +79,15 @@ defaults:
       path: "_vignettes"
       type: vignettes
     values:
-      layout: page
+      layout: post
       share: true
+- scope:
+      path: "stories"
+      type: stories
+    values:
+      layout: post
+      share: true
+
 
 collections:
   vignettes:
