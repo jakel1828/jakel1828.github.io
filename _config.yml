@@ -75,6 +75,7 @@ defaults:
     values:
       layout: post
       share: true
+      read_time: true
   - scope:
       path: "_vignettes"
       type: vignettes
@@ -105,16 +106,4 @@ author:
     - title: Email Jake
       url: mailto:contact@jakelacaze.com
       icon: fas fa-envelope
-
-# Footer Links
-footer_links:
-  - title: RSS feed
-    url: feed.xml
-    icon: fas fa-rss-square 
-  - title: Email Jake
-    url: mailto:contact@jakelacaze.com
-    icon: fas fa-envelope
-  - title: Buy Me a Coffee
-    url: https://buymeacoffee.com/jakelacaze
-    icon: fa fa-coffee
      
