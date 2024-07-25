@@ -85,7 +85,7 @@ author:
   links:
     - title: Email Jake
       url: mailto:contact@jakelacaze.com
-      icon: fa-solid fa-envelope
+      icon: fas fa-envelope
 
 # Footer Links
 footer_links:
