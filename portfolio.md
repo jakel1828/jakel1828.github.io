@@ -1,4 +1,4 @@
 ---
 title: Portfolio
-layout: collection
+layout: page
 ---
