@@ -1,4 +1,4 @@
 ---
 title: Subscribe
-layout: page
+layout: subscribe
 ---
