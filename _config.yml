@@ -79,7 +79,7 @@ defaults:
       path: "_vignettes"
       type: vignettes
     values:
-      layout: post
+      layout: page
       share: true
 
 collections:
