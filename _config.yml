@@ -41,6 +41,7 @@ paginate: 10
 paginate_path: /page:num/
 
 # Search
+search: true
 search_full_content: true # can have performance implications for large sites
 
 # Taxonomy pages
@@ -88,7 +89,6 @@ defaults:
     values:
       layout: page
       share: true
-
 
 collections:
   vignettes:
