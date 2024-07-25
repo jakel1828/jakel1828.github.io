@@ -92,10 +92,10 @@ footer_links:
   - title: RSS feed
     url: feed.xml
     icon: fas fa-rss-square 
-  - title: Buy Me a Coffee
-    url: https://buymeacoffee.com/jakelacaze
-    icon: fa fa-coffee
   - title: Email Jake
     url: mailto:contact@jakelacaze.com
     icon: fas fa-envelope
+  - title: Buy Me a Coffee
+    url: https://buymeacoffee.com/jakelacaze
+    icon: fa fa-coffee
      
