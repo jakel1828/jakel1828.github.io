@@ -1,5 +1,6 @@
 ---
 title: Don’t become the Southwest Airlines of literature
+tags: writing
 ---
 
 In an attempt to reverse its falling stock price, Southwest Airlines announced it will start assigning seats to its passengers.
