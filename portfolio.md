@@ -3,6 +3,12 @@ title: Portfolio
 layout: page
 ---
 
+## Categories
+- [Content writing](#content-writing)
+- [Technical writing](#technical-writing)
+
+<hr> 
+
 ## Content writing
 ### AI (logistics optimization)
 The following posts were written for a company using AI to help the trucking industry with driver scheduling, route optimization, and more.
@@ -36,6 +42,8 @@ The cost of a data breach goes well beyond just paying the ransom.</p></li>
 If you have the latest and greatest cybersecurity tools, then you don't need end user security training, right? WRONG! Educating your employees is still the best tool at your company's disposal.</p></li>
 </ul>
 
+[Back to top](#categories)
+
 ## Technical writing
 I created the items below as part of my technical writing certificate.
 
@@ -47,3 +55,5 @@ A sample owner’s manual for the Krups Fast Touch Coffee and Spice Grinder
 Technical description for the Uniball Jetstream 4+1 Multi Pen
 - [Memorandum](/assets/files/memorandum.pdf) <br>
 Memorandum explaining how to use the office printer 
+
+[Back to top](#categories)
