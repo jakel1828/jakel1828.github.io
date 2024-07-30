@@ -41,9 +41,9 @@ I created the items below as part of my technical writing certificate.
 
 These links will open PDF files hosted on this site.
 
-- [Owner’s manual](/assets/files/owners-manual.pdf) /
+- [Owner’s manual](/assets/files/owners-manual.pdf) <br>
 A sample owner’s manual for the Krups Fast Touch Coffee and Spice Grinder
-- [Technical description](/assets/files/technical-description.pdf) /
+- [Technical description](/assets/files/technical-description.pdf) <br>
 Technical description for the Uniball Jetstream 4+1 Multi Pen
-- [Memorandum](/assets/files/memorandum.pdf) /
+- [Memorandum](/assets/files/memorandum.pdf) <br>
 Memorandum explaining how to use the office printer 
