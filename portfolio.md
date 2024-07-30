@@ -7,6 +7,8 @@ layout: page
 ### AI (logistics optimization)
 The following posts were written for a company using AI to help the trucking industry with driver scheduling, route optimization, and more.
 
+These links will open in a new tab and direct you to external websites.
+
 <ul>
 <li>
 <p><a href="https://optym.com/blog/how-augmented-intelligence-benefits-trucking" rel="noopener noreferrer nofollow" target="_blank">How augmented intelligence benefits trucking</a><br>
@@ -33,3 +35,15 @@ The cost of a data breach goes well beyond just paying the ransom.</p></li>
 <li><p><a href="https://www.sagiss.com/blog/why-your-company-needs-end-user-security-training" rel="noopener noreferrer nofollow" target="_blank">Why your company needs end user security training</a><br>
 If you have the latest and greatest cybersecurity tools, then you don't need end user security training, right? WRONG! Educating your employees is still the best tool at your company's disposal.</p></li>
 </ul>
+
+## Technical writing
+I created the items below as part of my technical writing certificate.
+
+These links will open PDF files hosted on this site.
+
+- [Owner’s manual](/assets/files/owners-manual.pdf) /
+A sample owner’s manual for the Krups Fast Touch Coffee and Spice Grinder
+- [Technical description](/assets/files/technical-description.pdf) /
+Technical description for the Uniball Jetstream 4+1 Multi Pen
+- [Memorandum](/assets/files/memorandum.pdf) /
+Memorandum explaining how to use the office printer 
