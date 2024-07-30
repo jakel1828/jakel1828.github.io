@@ -7,8 +7,6 @@ layout: page
 - [Content writing](#content-writing)
 - [Technical writing](#technical-writing)
 
-<hr> 
-
 ## Content writing
 ### AI (logistics optimization)
 The following posts were written for a company using AI to help the trucking industry with driver scheduling, route optimization, and more.
