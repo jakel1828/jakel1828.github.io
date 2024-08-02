@@ -18,6 +18,16 @@ google_fonts:
     weights: "400,400i,700,700i"
 timezone: America/Chicago
 
+# author settings
+author:
+  name: Jake LaCaze
+  image: /assets/img/logo.jpg
+social:
+  name: Jake LaCaze
+  links:
+    - https://www.linkedin.com/in/jakelacaze
+    -https://github.com/jakel1828
+
 # Liquid
 liquid:
   error_mode: strict
