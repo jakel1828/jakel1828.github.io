@@ -16,13 +16,14 @@ google_fonts:
     weights: "400,400i,700,700i"
   - name: "Lora"
     weights: "400,400i,700,700i"
+timezone: America/Chicago
 
 # Liquid
 liquid:
   error_mode: strict
 
 # Build settings
-permalink: /:categories/:title/
+permalink: /:slug/
 markdown: kramdown
 feed:
   path: feed.xml
