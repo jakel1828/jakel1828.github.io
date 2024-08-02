@@ -4,7 +4,7 @@ remote_theme: mmistakes/jekyll-theme-basically-basic
 skin: "/assets/css/skins/default.css"
 locale: en-US
 title: Jake LaCaze
-description: Writer
+description: Writer based in Dallas-Fort Worth
 baseurl: # the subpath of your site, e.g. "/blog"
 url: https://jakelacaze.com
 logo: /assets/img/logo.jpg
@@ -38,17 +38,14 @@ search_full_content: true # can have performance implications for large sites
 category_archive_path: "/categories/#"
 tag_archive_path: "/tags/#"
 
-# Exclude from processing.
-# The following items will not be processed, by default. Create a custom list
-# to override the default setting.
-# exclude:
-#   - Gemfile
-#   - Gemfile.lock
-#   - node_modules
-#   - vendor/bundle/
-#   - vendor/cache/
-#   - vendor/gems/
-#   - vendor/ruby/
+exclude:
+  - Gemfile
+  - Gemfile.lock
+  - node_modules
+  - vendor/bundle/
+  - vendor/cache/
+  - vendor/gems/
+  - vendor/ruby/
 
 plugins:
   - jekyll-seo-tag
@@ -92,9 +89,3 @@ author:
   name: Jake LaCaze
   picture: /assets/img/logo.jpg
   email: contact@jakelacaze.com
-  twitter:
-  links:
-    - title: Email Jake
-      url: mailto:contact@jakelacaze.com
-      icon: fas fa-envelope
-     
