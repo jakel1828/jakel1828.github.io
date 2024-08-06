@@ -30,7 +30,7 @@ There's a reason we break our text into paragraphs or lines rather than crapping
 
 There's a reason bloggers use headers in their posts to join related sentences.
 
-And there's a reason we should [use title case only when absolutely necessary](/writing/the-case-against-title-case/).
+And there's a reason we should use title case only when absolutely necessary.
 
 The reason? Writing is visual.
 
