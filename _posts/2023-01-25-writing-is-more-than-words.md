@@ -23,8 +23,6 @@ Readers are more likely to remember writing that speaks to them. That speaks to 
 
 Writing is more powerful when it comes from a writer who is *human*. Someone with empathy.
 
-🗒️ **Note:** The advantage of empathy is one of many reasons [AI writers like ChatGPT won't replace quality content writers](/blog/chatgpt-writes-500-words-about-why-artificial-intelligence-will-never-replace-humans/).
-
 ## Writing is visual
 Most writers don't think of themselves as visual artists. But the visual aspects of writing still matter.
 
