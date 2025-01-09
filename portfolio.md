@@ -53,13 +53,13 @@ These materials were created as part of my technical writing certificate program
 
 All links below direct to PDFs hosted on GitHub.
 
-- [Sample owner’s manual](https://github.com/jakel1828/portfolio/raw/main/technical-writing/owners-manual.pdf)<br>
+- [Sample owner’s manual](/files/owners-manual.pdf)<br>
 A sample owner’s manual for the Krups Fast Touch Coffee and Spice Grinder
 
-- [Technical description](https://github.com/jakel1828/portfolio/raw/main/technical-writing/technical-description.pdf)<br>
+- [Technical description](/files/technical-description.pdf)<br>
 Technical description for the Uniball Jetstream 4&1 Multi Pen
 
-- [Memorandum](https://github.com/jakel1828/portfolio/raw/main/technical-writing/memorandum.pdf)<br>
+- [Memorandum](/files/memorandum.pdf)<br>
 Memorandum explaining how to use the office printer
 
 ## Oil & gas education
@@ -68,7 +68,7 @@ I created these items to explain basic principles for anyone in the land side of
 
 Links below direct to PDFs hosted on GitHub.
 
-- [Division order interest calculations](https://github.com/jakel1828/portfolio/raw/main/oil-and-gas-education/division-order-interest-calculations.pdf)<br>
+- [Division order interest calculations](/files/division-order-interest-calculations.pdf)<br>
 A slideshow explaining simply how to perform division order interest calculations
 
 [Back to top](#contents)
