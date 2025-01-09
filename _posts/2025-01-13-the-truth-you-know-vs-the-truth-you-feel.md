@@ -9,7 +9,7 @@ tags: [mindfulness]
 
 Why do insecure people believe things they know not to be true? Why do they listen to that nasty voice in their head telling them they're not good enough?
 
-These questions are just some I'm digging into as I'm on the fast track to middle age.
+These questions are just some I'm digging into as I'm on the fast track to middle age. <!--more-->
 
 Recently I shared one of my greatest paradoxes with my wife when I told her I think it's fair to say that, when considering where I started in life, I've been objectively successful. Yet I can't help feeling mediocre, partly because I feel I could have (and should have) done better at this point.
 

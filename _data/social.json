@@ -1,13 +1,23 @@
 {
   "links": [
     {
+      "title": "Subscribe via RSS",
+      "icon": "fa-rss",
+      "url": "/feed.xml"
+    },
+      {
+      "title": "Email me",
+      "icon": "fa-envelope",
+      "url": "mailto:contact@jakelacaze.com"
+    },
+    {
       "title": "GitHub",
       "icon": "fa-github",
       "url": "https://github.com/jakel1828"
     },
     {
       "title": "Buy me a coffee",
-      "icon": "fa-coffee",
+      "icon": "fa-mug-hot",
       "url": "https://buymeacoffee.com/jakelacaze"
     }
   ]
