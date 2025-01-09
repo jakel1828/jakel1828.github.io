@@ -8,3 +8,9 @@ group :jekyll_plugins do
   gem 'jekyll-sitemap'
 end
 
+
+gem "webrick", "~> 1.9"
+
+gem "jekyll-feed", "~> 0.17.0"
+
+gem "jekyll-redirect-from", "~> 0.16.0"
