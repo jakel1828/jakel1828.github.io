@@ -25,7 +25,7 @@ url: "https://jakelacaze.com"
 favicon: images/favicon.png
 
 # Google Analytics id, e.g. "UA-NNNNNNNN-N"
-google_analytics: "G-B9LY1F4LBL"
+google_analytics: ""
 
 # Site navigation - each item must have a title and a url.
 navigation:
