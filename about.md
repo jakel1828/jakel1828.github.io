@@ -3,7 +3,7 @@ layout: page
 title: About Jake LaCaze and his blog
 description: An optional about page for Scriptor Jekyll theme
 #feature_image: images/logo.png
-permalink: /about/
+permalink: /about
 ---
 
 My name is Jake LaCaze
