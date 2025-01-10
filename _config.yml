@@ -12,6 +12,14 @@ lang: en-US
 title: "Jake LaCaze"
 author: Jake LaCaze
 
+# SEO
+social:
+  name: Jake LaCaze
+  links:
+    - https://bsky.app/profile/jakelacaze.com
+    - https://github.com/jakel1828
+logo: images/logo.png
+
 # A description of your site for meta tag, search engine results.
 description: "Human-centered perspective as a service"
 
