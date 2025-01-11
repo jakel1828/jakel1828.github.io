@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Writing's common thread"
-description: "A graphic designer is a professional within the graphic design and graphic arts industry."
+#description: "A graphic designer is a professional within the graphic design and graphic arts industry."
 date: 2021-07-28
 #feature_image: images/road.jpg
 tags: [writing]
