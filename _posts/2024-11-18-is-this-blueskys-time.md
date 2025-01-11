@@ -21,6 +21,9 @@ Mastodon likes to think of itself as a Twitter (now X) alternative, but it's too
 
 We all know that, even if Meta's own Twitter clone (Threads) is enjoyable for now, it's only a matter of time before it falls victim to the same issues that sucked the joy out of Facebook and Instagram.
 
-[Bluesky is having a moment](https://onemanandhisblog.com/2024/11/bluesky-is-having-a-moment-time-to-pay-attention/), and seems focused on taking the best of early Twitter (with some friendly UI/UX) while avoiding ([postponing?](https://pluralistic.net/2024/11/02/ulysses-pact/)) the worst aspects of X. 
+Bluesky is having a moment[^1], and seems focused on taking the best of early Twitter (with some friendly UI/UX) while avoiding (postponing?[^2]) the worst aspects of X. 
 
 How sustainable is Bluesky's strategy? Only time will tell. (Oooo, look! A theme's developing!)
+
+[^1]: ['Bluesky is having a moment. Time to pay attention.'](https://onemanandhisblog.com/2024/11/bluesky-is-having-a-moment-time-to-pay-attention/) on One Man & His Blog
+[^2]: ['Bluesky and enshittification'](https://pluralistic.net/2024/11/02/ulysses-pact/) on Pluralistic

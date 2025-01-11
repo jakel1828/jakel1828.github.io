@@ -15,10 +15,12 @@ In this episode: Sisyphus was having a wonderful time with his wife when the urg
 
 ![Frame 3 of 'Sisyphus and the Rule of Three'](/images/flirting-with-nihilism/rule-of-three-3.jpg)
 
-Sisyphus thought himself a man of rules and order. At the least, he understood the sanctity of the [Rule of Three](https://www.youtube.com/watch?v=3tSAhVPs7pw).
+Sisyphus thought himself a man of rules and order. At the least, he understood the sanctity of the Rule of Three[^ruleofthree].
 
 ![Frame 4 of 'Sisyphus and the Rule of Three'](/images/flirting-with-nihilism/rule-of-three-4.jpg)
 
 *Remember, Sisyphus: It's not what happens to you, but how you respond, that matters.*
 
 ![Frame 5 of 'Sisyphus and the Rule of Three'](/images/flirting-with-nihilism/rule-of-three-5.jpg)
+
+[^ruleofthree]: ['The Rule of Three'](https://www.youtube.com/watch?v=3tSAhVPs7pw) on YouTube
