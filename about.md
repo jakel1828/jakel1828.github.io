@@ -4,6 +4,7 @@ title: About Jake LaCaze and his blog
 #description: An optional about page for Scriptor Jekyll theme
 #feature_image: images/logo.png
 permalink: /about
+toc: true
 ---
 
 My name is Jake LaCaze
@@ -19,6 +20,16 @@ This blog's **typical topics include:**
 - Tech
 - The human condition
 - [21st-century living](https://www.youtube.com/watch?v=rKwMni-2szU)
+
+## Subscribe
+You can subscribe to this blog via [RSS](/feed/).
+
+### Why can't I subscribe via email?
+Offering email subscriptions cost money.
+
+And email complicates my glorified hobby.
+
+So, for now, *no email subscription for you*!
 
 ## Contact
 Wanna say hi?

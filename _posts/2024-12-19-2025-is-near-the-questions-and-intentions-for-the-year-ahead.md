@@ -5,6 +5,7 @@ title: "2025 is near - The questions and intentions for the year ahead"
 date: 2024-12-19
 #feature_image: images/road.jpg
 tags: [mindfulness]
+toc: true
 ---
 
 Ah, the end of the year. A time to reflect on the year that was, and to look ahead to the year that will be. <!--more-->
