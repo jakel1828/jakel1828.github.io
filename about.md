@@ -11,7 +11,11 @@ My name is Jake LaCaze
 
 . . . obvy.
 
-And I'm a poor man's polymath. (AKA I bounce from topic to topic and don't know how to stay in my lane.)
+Some quick notes about me:
+
+- Writer of short sentences.
+- Laughable sketch artist.
+- Functionally illiterate bookworm
 
 This blog's **typical topics include:**
 
