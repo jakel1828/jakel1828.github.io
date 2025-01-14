@@ -27,6 +27,7 @@ To fake it until you make it, you must *make* it at some point. Otherwise, you'r
 But how easily we forget our accomplishments. So maybe you should document. Your personal brag file is a great place to keep these wins. This process is your personal record. The record can be private; it need be nothing more than a simple text file. No need for special formatting. Plain text will do just fine.
 
 > **NOTE:** I also recommend keeping a brag file of your professional accomplishments for work. The brag file is a great resource to have when it's time for annual reviews so that you don't have to remember all the awesome stuff you did over the last year.
+> 
 
 If you're feeling bold, maybe you'll make the record public in the form of a blog post or a memoir. Just be prepared to be labeled a self-congratulatory, self-centered jerk. Maybe you *know* it's untrue, but someone else's accusation may make you *feel* it's true.
 
