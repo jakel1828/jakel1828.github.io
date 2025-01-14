@@ -28,7 +28,7 @@ This blog's **typical topics include:**
 - [21st-century living](https://www.youtube.com/watch?v=rKwMni-2szU)
 
 ## Subscribe
-You can subscribe to this blog via [RSS](/feed/).
+You can subscribe to this blog via [RSS](/feed).
 
 ### Why can't I subscribe via email?
 Offering email subscriptions cost money.
