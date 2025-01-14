@@ -3,7 +3,9 @@ layout: page
 title: Wishlist
 # description: An optional about page for Scriptor Jekyll theme
 #feature_image: images/logo.png
-permalink: /wishlist
+permalink: /wishlist/
+redirect-from:
+  - /wishlist
 ---
 
 You were probably sent this link because you asked what I wanted for a gift-giving holiday.

@@ -1,7 +1,9 @@
 ---
 layout: page
 title: Portfolio
-permalink: /portfolio
+permalink: /portfolio/
+redirect-from:
+  - /portfolio
 ---
 
 Below are the works making up my public writing portfolio.
