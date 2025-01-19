@@ -6,7 +6,7 @@ date: 2022-02-02
 #feature_image: images/road.jpg
 tags: [writing]
 redirect-from:
-  - /great-writing-is-iterative/
+ - /great-writing-is-iterative/
 ---
 
 So many of us have this habit of romanticizing great writing.<!--more-->
