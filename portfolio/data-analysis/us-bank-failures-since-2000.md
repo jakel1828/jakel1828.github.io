@@ -33,7 +33,7 @@ The data originated in CSV format and was simple compared to the project includi
 
 Below is a screenshot preview of the basic data:
 
-![A screenshot of the CSV data used for data analysis of U.S. bank failures since 2000](/images/data-analysis/us-bank-failures-since-2000/data-snippet.jpg)
+![A screenshot of the CSV data used for data analysis of U.S. bank failures since 2000](/images/data-analysis/us-bank-failures-since-2000/data-snippet.JPG)
 
 For this project, **I leaned on the following columns**:
 
