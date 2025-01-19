@@ -22,9 +22,7 @@ that guided this project.
 Below are the few **resources I used for my data analysis**:
 
 - CSV file from Data.gov[^datalink]
-
 - Microsoft Excel
-
 - A computer at the library (Long story I won't dive into)
 
 ### About the data
@@ -58,11 +56,8 @@ Georgia dominated with a total of 93, accounting for 16% of all bank failures.
 **The top 5 is rounded out by the following states** (with their respective failures in parentheses):
 
 - Florida (76)
-
 - Illinois (70)
-
 - California (43)
-
 - Minnesota (23)
 
 After Minnesota, you see the numbers start on a steady decline.
@@ -70,13 +65,9 @@ After Minnesota, you see the numbers start on a steady decline.
 **Five states had only one failed bank**:
 
 1. Hawaii
-
 2. Massachusetts
-
 3. New Hampshire
-
 4. South Dakota
-
 5. Wyoming
 
 ---
@@ -122,9 +113,7 @@ State Bank and Trust Company leads the pack with 12 acquisitions.
 I've had *a few takeaways* while examining the results:
 
 1. These results are far more consistent than the results of the previous charts. The leader, State Bank and Trust Company, has had twice as many acquisitions as the four bottom banks on this list (each with six aquisitions), but the overall decline is steady. The top-12 acquirers account for only 95 acquisitions.
-
 2. There were no acquirers in 31 instances of bank failure. So what happened to those other banks? (Is this something I would know if I were looking at this data as part of my day job, such as if I worked in finance?) Did the government maintain the responsibility for these failed banks?
-
 3. I expected to see more acquisitions by the largest banks, such as J.P. Morgan Chase, Bank of America, and Wells Fargo. But neither of those institutions makes the top 12.
 
 ## Limitations of the dataset
@@ -152,9 +141,7 @@ If you want to look at the Excel workbook I used for my data analysis, you can f
 Below are **a few notes about my worksheets**:
 
 - The tabs in green are my deliverables (the clean versions of my analysis that I featured in my data analysis). These are the reports I'd show to my boss if I were doing this for my day job.
-
 - The tabs in yellow are my scratch files (where I worked through the data). These tabs aren't something I'd show to my boss, but they're worth keeping around to show my work or referencing later if any questions pop up. You'll see that most of the insights came courtesy of basic pivot tables within these tabs.
-
 - The tabs in red are my data tabs. The 'data_raw' tab is the pure raw data that I imported from the CSV file found on Data.gov. I password protected this tab to make sure I always had a copy of the raw data in my workbook. (If you want to mess with this tab for some reason, the password is '12345'. Yes, the password an idiot keeps on his luggage[^luggage].)
   
   The 'data_cleaned' tab includes any changes I made to make the data more usable. For this project, I believe I made only minor changes and additions regarding the dates of the failures.
