@@ -16,7 +16,7 @@ I often outline short stories--yes, even flash fiction sometimes--so why should 
 
 I think of outlining as the logical part of the writing process. When outlining, you're lining up your beats and making sure that the progression of your story makes sense. If this part is taken care of beforehand, then you can focus on your prose during the *writing* phase.
 
-**Reminder:** You don't have to do it all at once. Feel free to take writing step by step, because [great writing is iterative](/great-writing-is-iterative/).
+**Reminder:** You don't have to do it all at once. Feel free to take writing step by step, because [great writing is iterative](/great-writing-is-iterative).
 
 ## 2. It's okay to put a project down and come back later.
 I started this novella months ago--maybe over a year ago, at this point. I wish I could tell you that I've been good about working on it bit by bit every day.

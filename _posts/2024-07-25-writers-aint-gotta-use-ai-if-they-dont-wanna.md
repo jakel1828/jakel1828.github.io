@@ -11,7 +11,7 @@ If you’ve found a certain tool or service  that works for you and makes your l
 
 But please don’t let peer pressure convince you that you ABSOLUTELY MUST try some new piece of shiny technology. (I’m thinking specifically about generative AI and large language models like ChatGPT, but the point also relates to non-AI tools).<!--more-->
 
-Great writing is [a process](/great-writing-is-iterative/).	It’s often messy—unfortunately, that’s just the nature of the work. Sometimes, it’s only by that messiness that you’re able to make your writing work. The only way out is through.
+Great writing is [a process](/great-writing-is-iterative).	It’s often messy—unfortunately, that’s just the nature of the work. Sometimes, it’s only by that messiness that you’re able to make your writing work. The only way out is through.
 
 If you want only to churn out a certain number of words on a given topic, with little to no concern for quality or insight, then maybe leaning on generative AI is the strategy for you. But if you’re looking for the right words to capture your voice, then maybe AI ain’t right for you. And that’s okay, because AI never *had to be* the tool for you, unless you decided it was so.
 
