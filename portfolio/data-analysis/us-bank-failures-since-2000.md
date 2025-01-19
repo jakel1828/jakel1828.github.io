@@ -33,7 +33,7 @@ The data originated in CSV format and was simple compared to the project includi
 
 Below is a screenshot preview of the basic data:
 
-![A screenshot of the CSV data used for data analysis of U.S. bank failures since 2000](/images/bank-failures-data-analysis/us-bank-failures-since-2000-data-snippet.jpg)
+![A screenshot of the CSV data used for data analysis of U.S. bank failures since 2000](/images/data-analysis/us-bank-failures-since-2000/data-snippet.jpg)
 
 For this project, **I leaned on the following columns**:
 
@@ -47,11 +47,11 @@ For this project, **I leaned on the following columns**:
 
 Below are answers to some of the questions I had when considering this dataset.
 
-### Total U.S. bank failures since 2000 by geography
+### Total U.S. bank failures since 2000 by location
 
 I first asked myself which states had the most total failures in the 21st century.
 
-![A chart made in Microsoft Excel showing the total U.S. bank failures since 2000 by state](/images/bank-failures-data-analysis/us-bank-failures-since-2000-by-state.jpg)
+![A chart made in Microsoft Excel showing the total U.S. bank failures since 2000 by state](/images/data-analysis/us-bank-failures-since-2000/by-state.jpg)
 
 Georgia dominated with a total of 93, accounting for 16% of all bank failures.
 
@@ -80,7 +80,7 @@ After Minnesota, you see the numbers start on a steady decline.
 
  The dataset tells what cities have had banks fail, so I was curious which cities ranked in the top 10.
 
-![A chart made in Microsoft Excel showing the total U.S. bank failures since 2000 by top 10 cities](/images/bank-failures-data-analysis/us-bank-failures-since-2000-top-10-cities.jpg)
+![A chart made in Microsoft Excel showing the total U.S. bank failures since 2000 by top 10 cities](/images/data-analysis/us-bank-failures-since-2000/top-10-cities.jpg)
 
 I was interested to see that while the state of Illinois ranked #3 in terms of U.S. bank failures since 2000, the state is in fact home to the city with the most bank failures: Chicago.
 
@@ -92,7 +92,7 @@ Depending on your intentions for this data, you might want to analyze how many c
 
 Which year has seen the most U.S. bank failures since 2000?
 
-![A chart made in Microsoft Excel showing the total U.S. bank failures since 2000 by year](/images/bank-failures-data-analysis/us-bank-failures-since-2000-by-year.jpg)
+![A chart made in Microsoft Excel showing the total U.S. bank failures since 2000 by year](/images/data-analysis/us-bank-failures-since-2000/by-year.jpg)
 
 The answer: 2010, with a grand total of 157.
 
@@ -108,7 +108,7 @@ Failed banks are often acquired by surviving, more resilient institutions.
 
 So which institutions have gained the most from U.S. bank failures since 2000?
 
-![A chart made in Microsoft Excel showing the total U.S. bank failures since 2000 - top 12 acquirers](/images/bank-failures-data-analysis/us-bank-failures-since-2000-top-12-acquirers.jpg)
+![A chart made in Microsoft Excel showing the total U.S. bank failures since 2000 - top 12 acquirers](/images/data-analysis/us-bank-failures-since-2000/top-12-acquirers.jpg)
 
 State Bank and Trust Company leads the pack with 12 acquisitions.
 
