@@ -5,6 +5,7 @@ title: "Frugal reading - Tips for reading on a budget"
 date: 2024-05-20
 #feature_image: images/road.jpg
 tags: [reading]
+toc: true
 ---
 
 So you wanna read more.

@@ -4,16 +4,10 @@ title: Portfolio
 permalink: /portfolio/
 redirect-from:
   - /portfolio
+toc: true
 ---
 
 Below are the works making up my public writing portfolio.
-
-## Contents
-The works are broken into the following categories:
-- [Content writing](#content-writing)
-- [Technical writing](#technical-writing)
-- [Oil and gas education](#oil--gas-education)
-- [Data analysis](#data-analysis)
 
 ## Content writing
 
@@ -48,8 +42,6 @@ The cost of a data breach goes well beyond just paying the ransom.</p></li>
 If you have the latest and greatest cybersecurity tools, then you don't need end user security training, right? WRONG! Educating your employees is still the best tool at your company's disposal.</p></li>
 </ul>
 
-[Back to top](#contents)
-
 ## Technical writing
 
 These materials were created as part of my technical writing certificate program. <!--more-->
@@ -74,12 +66,8 @@ Links below direct to PDFs hosted on GitHub.
 - [Division order interest calculations](/portfolio/oil-and-gas-education/division-order-interest-calculations.pdf)<br>
 A slideshow explaining simply how to perform division order interest calculations
 
-[Back to top](#contents)
-
 ## Data analysis
 The items below are hosted on my site.
 
 - [U.S. bank failures since 2000](/portfolio/data-analysis/us-bank-failures-since-2000)<br>
 Data analysis of U.S. bank failures from 10/01/2000 through 01/17/2025
-
-[Back to top](#contents)

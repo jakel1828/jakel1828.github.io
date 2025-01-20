@@ -13,8 +13,7 @@ layout: default
       {% endif %}
     </header><!-- .post-header -->
     <div class="post-content">
-{% toc %}
-      {{content}}
+{{ content | toc }}
     </div><!-- .post-content -->
   </article><!-- .post -->
 </main><!-- .site-main -->

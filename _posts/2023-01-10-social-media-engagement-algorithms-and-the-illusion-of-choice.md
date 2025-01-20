@@ -5,6 +5,7 @@ title: "Social media engagement algorithms and the illusion of choice"
 date: 2023-01-10
 #feature_image: images/road.jpg
 tags: [tech, social media]
+toc: true
 ---
 
 So many of us, over the last couple years, have been rethinking our relationship with social media and the internet at large.
