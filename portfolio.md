@@ -1,9 +1,8 @@
 ---
 layout: page
 title: Portfolio
-permalink: /portfolio/
-redirect-from:
-  - /portfolio
+redirect-from: 
+ - /portfolio/
 toc: true
 ---
 

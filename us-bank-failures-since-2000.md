@@ -6,9 +6,7 @@ description: "Data analysis about U.S. bank failures using CSV data in Excel"
 #feature_image: images/road.jpg
 tags: [portfolio, data analysis]
 toc: true
-permalink: /portfolio/data-analysis/us-bank-failures-since-2000/
-redirect_from:
- - /portfolio/data-analysis/us-bank-failures-since-2000
+redirect_from: /portfolio/data-analysis/us-bank-failures-since-2000/
 ---
 
 Using a simple dataset from Data.gov, I've put together some insights about U.S. bank failures since 2000.
