@@ -1,8 +1,7 @@
 ---
 layout: page
 title: Portfolio
-redirect-from: 
- - /portfolio/
+redirect-from: /portfolio/
 toc: true
 ---
 

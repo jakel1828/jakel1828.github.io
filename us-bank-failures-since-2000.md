@@ -6,7 +6,6 @@ description: "Data analysis about U.S. bank failures using CSV data in Excel"
 #feature_image: images/road.jpg
 tags: [portfolio, data analysis]
 toc: true
-redirect_from: /portfolio/data-analysis/us-bank-failures-since-2000/
 ---
 
 Using a simple dataset from Data.gov, I've put together some insights about U.S. bank failures since 2000.
@@ -142,10 +141,8 @@ Below are **a few notes about my worksheets**:
 
 - The tabs in green are my deliverables (the clean versions of my analysis that I featured in my data analysis). These are the reports I'd show to my boss if I were doing this for my day job.
 - The tabs in yellow are my scratch files (where I worked through the data). These tabs aren't something I'd show to my boss, but they're worth keeping around to show my work or referencing later if any questions pop up. You'll see that most of the insights came courtesy of basic pivot tables within these tabs.
-- The tabs in red are my data tabs. The 'data_raw' tab is the pure raw data that I imported from the CSV file found on Data.gov. I password protected this tab to make sure I always had a copy of the raw data in my workbook. (If you want to mess with this tab for some reason, the password is '12345'. Yes, the password an idiot keeps on his luggage[^luggage].)
+- The tabs in red are my data tabs. The 'data_raw' tab is the pure raw data that I imported from the CSV file found on Data.gov. I password protected this tab to make sure I always had a copy of the raw data in my workbook. (If you want to mess with this tab for some reason, the password is '12345'. Yes, the password an idiot keeps on his luggage.)
   
   The 'data_cleaned' tab includes any changes I made to make the data more usable. For this project, I believe I made only minor changes and additions regarding the dates of the failures.
 
 [^datalink]: [FDIC failed bank list](https://catalog.data.gov/dataset/fdic-failed-bank-list) data from Data.gov
-
-[^luggage]: [Password scene from *Spaceballs*](https://www.youtube.com/watch?v=B-NhD15ocwA)
