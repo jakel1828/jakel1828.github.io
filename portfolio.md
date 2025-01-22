@@ -44,28 +44,28 @@ If you have the latest and greatest cybersecurity tools, then you don't need end
 
 These materials were created as part of my technical writing certificate program. <!--more-->
 
-All links below direct to PDFs hosted on GitHub.
+All links below direct to PDFs hosted on this site.
 
-- [Sample owner’s manual](/portfolio/technical-writing/owners-manual.pdf)<br>
+- [Sample owner’s manual](/files/portfolio/technical-writing/owners-manual.pdf)<br>
 A sample owner’s manual for the Krups Fast Touch Coffee and Spice Grinder
 
-- [Technical description](/portfolio/technical-writing/technical-description.pdf)<br>
+- [Technical description](/files/portfolio/technical-writing/technical-description.pdf)<br>
 Technical description for the Uniball Jetstream 4&1 Multi Pen
 
-- [Memorandum](/portfolio/technical-writing/memorandum.pdf)<br>
+- [Memorandum](/files/portfolio/technical-writing/memorandum.pdf)<br>
 Memorandum explaining how to use the office printer
 
 ## Oil & gas education
 
 I created these items to explain basic principles for anyone in the land side of the oil and gas industry. <!--more-->
 
-Links below direct to PDFs hosted on GitHub.
+Links below direct to PDFs hosted on this site.
 
-- [Division order interest calculations](/portfolio/oil-and-gas-education/division-order-interest-calculations.pdf)<br>
+- [Division order interest calculations](/files/portfolio/oil-and-gas-education/division-order-interest-calculations.pdf)<br>
 A slideshow explaining simply how to perform division order interest calculations
 
 ## Data analysis
-The items below are hosted on my site.
+The items below are hosted on this site.
 
 - [U.S. bank failures since 2000](/portfolio/data-analysis/us-bank-failures-since-2000)<br>
 Data analysis of U.S. bank failures from 10/01/2000 through 01/17/2025

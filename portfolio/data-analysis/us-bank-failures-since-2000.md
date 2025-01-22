@@ -134,7 +134,7 @@ Were all owners made whole after each U.S. bank failure since 2000? This questio
 
 ## Access my workbook
 
-If you want to look at the Excel workbook I used for my data analysis, you can find it [here](/portfolio/data-analysis/us-bank-failures-since-2000.xlsx).
+If you want to look at the Excel workbook I used for my data analysis, you can find it [here](/files/portfolio/data-analysis/us-bank-failures-since-2000.xlsx).
 
 Below are **a few notes about my worksheets**:
 
