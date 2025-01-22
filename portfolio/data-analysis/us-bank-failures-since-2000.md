@@ -4,8 +4,6 @@ title: "U.S. bank failures since 2000"
 description: "Data analysis about U.S. bank failures using CSV data in Excel"
 #date: 2024-01-27
 #feature_image: images/road.jpg
-permalink: /portfolio/data-analysis/us-bank-failures-since-2000
-tags: [portfolio, data analysis]
 toc: true
 ---
 
