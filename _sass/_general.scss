@@ -396,3 +396,12 @@ video {
 		transform: rotate(-45deg);
 	}
 }
+
+/* Search */
+#search-results {
+list-style: none;
+padding-top: 20px;
+}
+
+#search-results li a h3 {
+margin-bottom: 0px;}

@@ -43,6 +43,8 @@ navigation:
     url: /about
   - text: Tags
     url: /tags
+  - text: Search
+    url: /search
 
 # The shortname for your Disqus site to enable comments.
 # disqus: justgoodthemes
