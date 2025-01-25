@@ -143,5 +143,30 @@ Below are **a few notes about my worksheets**:
 - The tabs in red are my data tabs. The 'data_raw' tab is the pure raw data that I imported from the CSV file found on Data.gov. I password protected this tab to make sure I always had a copy of the raw data in my workbook. (If you want to mess with this tab for some reason, the password is '12345'. Yes, the password an idiot keeps on his luggage.)
   
   The 'data_cleaned' tab includes any changes I made to make the data more usable. For this project, I believe I made only minor changes and additions regarding the dates of the failures.
+  
+## BONUS: Data visualization via Power BI
+My original analysis was done exclusively in Excel. I've since added a simple data visualization report via Power BI to condense this analysis.
+
+![A screenshot of a data visualization report in Power BI](/images/data-analysis/us-bank-failures-since-2000/data-visualization-via-power-bi.JPG)
+
+This Power BI dashboard consolidates all the previous data analysis into one place.
+
+Using the filters at the top, you can customize the report by state and date range (in years).
+
+Say you want to see how Arizona has done from 2009 through 2025.
+
+Simply change the parameters of the report via the filters, and you get the answers you're looking for.
+
+![A screenshot of filtering data visualization report in Power BI](/images/data-analysis/us-bank-failures-since-2000/data-visualization-example.JPG)
+
+We can simply see:
+1. Arizona has had a total of 15 bank failures from 2009 through 2025 (via the top chart).
+2. The city of Phoenix has had the most bank failures (5) in Arizona during this time (via the bottom chart). Scottsdale is close behind with 4 bank failures.
+3. The bottom table shows us that Enterprise Bank & Trust and MidFirst Bank acquired the most failed banks, with 2 each.
+4. The top table (listing the cities with failed banks) looks useless in this example, but it might come in handy when looking at a state like Georgia, which led the pack with the most bank failures from 2000 through 2025.
+
+If you want to look at my Power BI dashboard, you can find the file [here](/files/portfolio/data-analysis/us-bank-failures-since-2000.pbix).
+
+
 
 [^datalink]: [FDIC failed bank list](https://catalog.data.gov/dataset/fdic-failed-bank-list) data from Data.gov
