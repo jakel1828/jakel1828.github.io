@@ -7,7 +7,7 @@ date: 2021-09-05
 tags: [business, books, reviews]
 ---
 
-If you had to sum up in only a few sentences the [WeWork](https://en.wikipedia.org/wiki/WeWork) debacle to someone unfamiliar with the situation, how would you do so? The following quote from *[The Cult of We: WeWork, Adam Neumann, and the Great Startup Delusion](https://www.amazon.com/Cult-We-Neumann-Startup-Delusion-ebook/dp/B08FHC77MT/ref=sr_1_1?dchild=1&keywords=The+cult+of+we&qid=1630936360&sr=8-1)* by Eliot Brown and Maureen Farrell would be my candidate.
+If you had to sum up in only a few sentences the [WeWork](https://en.wikipedia.org/wiki/WeWork) debacle to someone unfamiliar with the situation, how would you do so? The following quote from *[The Cult of We: WeWork, Adam Neumann, and the Great Startup Delusion](https://www.amazon.com/Cult-We-Neumann-Startup-Delusion-ebook/dp/B08FHC77MT/ref=sr_1_1?dchild=1&keywords=The+cult+of+we&qid=1630936360&sr=8-1)* by Eliot Brown and Maureen Farrell would be my candidate. <!--more-->
 
 > But prior to the prospectus becoming public, bankers and other advisers had continued to shower \[Adam\] Neumann with praise--giving him criticism too infrequently and too meekly. These advisers either ignored or danced around the company's obvious warts and red flags.
 >
