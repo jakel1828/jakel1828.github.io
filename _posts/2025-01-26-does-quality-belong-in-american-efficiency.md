@@ -5,6 +5,7 @@ title: "Does quality belong in American efficiency?"
 date: 2025-01-26
 #feature_image: images/road.jpg
 tags: [business]
+redirect_from: /does-quality-belong-in-american-effiency
 ---
 
 In American business, efficiency typically emphasizes two points:
